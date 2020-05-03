@@ -12,3 +12,11 @@ Downloaded Wiki dataset with cropped images.
 		year={2018},
 		publisher={Springer}
 	}
+	
+Pretrained VGG Keras Model of Imagenet for  : https://drive.google.com/file/d/1CPSeum3HpopfomUEK1gybeuIVoeJT_Eo/view
+
+Pickled Input of Pixel values of images : https://drive.google.com/drive/u/0/folders/1tqSRXvtLbqhnh-KF_PHeRnJOkM2iYrHt
+
+Pickled Output(One hot encoding): https://drive.google.com/drive/u/0/folders/1tqSRXvtLbqhnh-KF_PHeRnJOkM2iYrHt
+
+
